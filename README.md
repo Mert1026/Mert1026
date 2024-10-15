@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mert1026
 - 👀 I’m interested in Football and coding
-- 🌱 I’m currently learning C#, SQL usage, HTML, CSS, HTTP
+- 🌱 I’m currently learning C#, SQL usage, HTML, CSS, working with HTTP requests, JavaScript,.Net
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me: call me
 - 😄 Pronouns: he/him
