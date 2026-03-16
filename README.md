@@ -10,6 +10,4 @@ One of one Fenerbahce supporter + programmer. Crazzyyy...
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mert1026&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
