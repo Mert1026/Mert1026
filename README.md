@@ -74,8 +74,20 @@
 
 ###
 
+<h1 align="center">Contact</h1>
+
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
+
+###
+
+<h1 align="center">Statistics</h1>
+
+<div align="center">
+  <a href="https://github.com/Mert1026">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mert1026&theme=zenburn" height="180em" />
+</div>
 </div>
 
 ###
