@@ -1,5 +1,5 @@
 
-<svg width="800" height="1202" viewBox="0 0 800 1202" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="800" height="1097" viewBox="0 0 800 1097" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&amp;family=Teko:wght@500;600;700&amp;family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Fira+Code:wght@300..700&amp;family=Inter+Tight:ital,wght@0,100..900;1,100..900&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&amp;family=Outfit:wght@100..900&amp;family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&amp;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Roboto:ital,wght@0,100..900;1,100..900&amp;family=Space+Grotesk:wght@300..700&amp;display=swap');
 
@@ -29,7 +29,7 @@
     }
   </style>
 
-  <rect class="" width="800" height="1202" fill="#ffffff" rx="0" />
+  <rect class="" width="800" height="1097" fill="#ffffff" rx="0" />
 
   
     <g transform="translate(0, 0)" id="widget-widget_1791373386570_0">
@@ -104,13 +104,13 @@
     </g>
   
 
-    <g transform="translate(164, 138)" id="widget-widget_1791373386570_2">
+    <g transform="translate(24, 132)" id="widget-widget_1791373386570_2">
 
       
           <style>
             @keyframes typewriter-clip-widget_1791373386570_2-4 {
               from { width: 0; }
-              to { width: 472px; }
+              to { width: 384px; }
             }
             
             #widget-widget_1791373386570_2 .typewriter-line-widget_1791373386570_2-4-0 {
@@ -143,31 +143,31 @@
           </style>
         
       
-      <rect class="" x="0" y="0" width="472" height="192" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
+      <rect class="" x="0" y="0" width="384" height="192" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
       
       
           <clipPath id="typewriter-clip-widget_1791373386570_2-4">
-            <rect class="typewriter-line-widget_1791373386570_2-4-0" x="0" y="4" width="0" height="22" />
-          <rect class="typewriter-line-widget_1791373386570_2-4-1" x="0" y="22" width="0" height="22" />
-          <rect class="typewriter-line-widget_1791373386570_2-4-2" x="0" y="40" width="0" height="22" />
-          <rect class="typewriter-line-widget_1791373386570_2-4-3" x="0" y="66" width="0" height="22" />
-          <rect class="typewriter-line-widget_1791373386570_2-4-4" x="0" y="84" width="0" height="22" />
-          <rect class="typewriter-line-widget_1791373386570_2-4-5" x="0" y="102" width="0" height="22" />
-          <rect class="typewriter-line-widget_1791373386570_2-4-6" x="0" y="128" width="0" height="22" />
-          <rect class="typewriter-line-widget_1791373386570_2-4-7" x="0" y="146" width="0" height="22" />
-          <rect class="typewriter-line-widget_1791373386570_2-4-8" x="0" y="164" width="0" height="22" />
+            <rect class="typewriter-line-widget_1791373386570_2-4-0" x="0" y="2" width="0" height="22" />
+          <rect class="typewriter-line-widget_1791373386570_2-4-1" x="0" y="18" width="0" height="22" />
+          <rect class="typewriter-line-widget_1791373386570_2-4-2" x="0" y="34" width="0" height="22" />
+          <rect class="typewriter-line-widget_1791373386570_2-4-3" x="0" y="58" width="0" height="22" />
+          <rect class="typewriter-line-widget_1791373386570_2-4-4" x="0" y="74" width="0" height="22" />
+          <rect class="typewriter-line-widget_1791373386570_2-4-5" x="0" y="90" width="0" height="22" />
+          <rect class="typewriter-line-widget_1791373386570_2-4-6" x="0" y="114" width="0" height="22" />
+          <rect class="typewriter-line-widget_1791373386570_2-4-7" x="0" y="130" width="0" height="22" />
+          <rect class="typewriter-line-widget_1791373386570_2-4-8" x="0" y="146" width="0" height="22" />
           
           </clipPath>
           <g clip-path="url(#typewriter-clip-widget_1791373386570_2-4)">
-            <text x="12" y="20" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> Mert1026@github </tspan><tspan fill="#3d444d">───────────────────────────────────</tspan></text>
-<text x="12" y="38" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Uptime: </tspan><tspan fill="#484f58">................</tspan><tspan fill="#c9d1d9"> 2 years, 2 months, 19 days</tspan></text>
-<text x="12" y="56" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Joined: </tspan><tspan fill="#484f58">..................................</tspan><tspan fill="#c9d1d9"> Jul 2024</tspan></text>
-<text x="12" y="82" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> Contact </tspan><tspan fill="#3d444d">───────────────────────────────────────────</tspan></text>
-<text x="12" y="100" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. GitHub: </tspan><tspan fill="#484f58">.......................</tspan><tspan fill="#c9d1d9"> github.com/Mert1026</tspan></text>
-<text x="12" y="118" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Email: </tspan><tspan fill="#484f58">....................</tspan><tspan fill="#c9d1d9"> mertelsenev10@gmail.com</tspan></text>
-<text x="12" y="144" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> GitHub Stats </tspan><tspan fill="#3d444d">──────────────────────────────────────</tspan></text>
-<text x="12" y="162" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Repos: </tspan><tspan fill="#484f58">..............</tspan><tspan fill="#79c0ff"> 7</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">..........</tspan><tspan fill="#79c0ff"> 692</tspan></text>
-<text x="12" y="180" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Followers: </tspan><tspan fill="#484f58">......................................</tspan><tspan fill="#79c0ff"> 5</tspan></text>
+            <text x="12" y="18" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> Mert1026@github </tspan><tspan fill="#3d444d">────────────────────────────────</tspan></text>
+<text x="12" y="34" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#ffa657">. Uptime: </tspan><tspan fill="#484f58">.............</tspan><tspan fill="#c9d1d9"> 2 years, 2 months, 19 days</tspan></text>
+<text x="12" y="50" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#ffa657">. Joined: </tspan><tspan fill="#484f58">...............................</tspan><tspan fill="#c9d1d9"> Jul 2024</tspan></text>
+<text x="12" y="74" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> Contact </tspan><tspan fill="#3d444d">────────────────────────────────────────</tspan></text>
+<text x="12" y="90" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#ffa657">. GitHub: </tspan><tspan fill="#484f58">....................</tspan><tspan fill="#c9d1d9"> github.com/Mert1026</tspan></text>
+<text x="12" y="106" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#ffa657">. Email: </tspan><tspan fill="#484f58">.................</tspan><tspan fill="#c9d1d9"> mertelsenev10@gmail.com</tspan></text>
+<text x="12" y="130" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> GitHub Stats </tspan><tspan fill="#3d444d">───────────────────────────────────</tspan></text>
+<text x="12" y="146" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#ffa657">. Repos: </tspan><tspan fill="#484f58">............</tspan><tspan fill="#79c0ff"> 7</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">........</tspan><tspan fill="#79c0ff"> 692</tspan></text>
+<text x="12" y="162" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#ffa657">. Followers: </tspan><tspan fill="#484f58">...................................</tspan><tspan fill="#79c0ff"> 5</tspan></text>
           </g>
         
   
@@ -370,7 +370,7 @@
     </g>
   
 
-    <g transform="translate(16, 752)" id="widget-widget_1791374891882">
+    <g transform="translate(400, 40)" id="widget-widget_1791374891882">
 
       
       
@@ -962,7 +962,7 @@
     </g>
   
 
-    <g transform="translate(388, 826)" id="widget-widget_1791376220594">
+    <g transform="translate(8, 681)" id="widget-widget_1791376220594">
 
       
       
@@ -971,8 +971,8 @@
       <svg
   xmlns="http://www.w3.org/2000/svg"
   id="widget_1791376220594"
-  width="360"
-  height="360"
+  width="400"
+  height="400"
   viewBox="0 0 400 230"
   preserveAspectRatio="xMidYMid meet"
   fill="none"

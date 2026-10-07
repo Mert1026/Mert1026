@@ -25,11 +25,11 @@
       "widgetId": "terminal-info",
       "name": "Terminal-info Widget",
       "position": {
-        "x": 164,
-        "y": 138
+        "x": 24,
+        "y": 132
       },
       "size": {
-        "width": 472,
+        "width": 384,
         "height": 192
       },
       "config": {
@@ -149,8 +149,8 @@
       "widgetId": "premium-ascii-insights",
       "name": "Premium-ascii-insights Widget",
       "position": {
-        "x": 16,
-        "y": 752
+        "x": 400,
+        "y": 40
       },
       "size": {
         "width": 376,
@@ -199,12 +199,12 @@
       "widgetId": "premium-ascii-dna",
       "name": "Premium-ascii-dna Widget",
       "position": {
-        "x": 388,
-        "y": 826
+        "x": 8,
+        "y": 681
       },
       "size": {
-        "width": 360,
-        "height": 360
+        "width": 400,
+        "height": 400
       },
       "config": {
         "lockAspectRatio": true,
@@ -237,7 +237,7 @@
   "templateId": "native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791381023570_mz376",
-    "updatedAt": "2026-10-07T13:50:27.269Z"
+    "revision": "rev_1791381124709_hyiuq",
+    "updatedAt": "2026-10-07T13:52:06.825Z"
   }
 }
