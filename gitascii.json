@@ -20467,8 +20467,8 @@
         "card1Icon": "trophy",
         "card2Text": "must watch",
         "card2Icon": "flask-conical",
-        "card2GifUrl": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2dyZGp3Nmh0aXhkMzc3MmVlaTFjeGlrZ2Z4YzRubnp1YWg0ZjUwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2s0ouek7HJmWQ/giphy.gif",
-        "leftGifUrl": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZnNGhhM2FuMXpwMXZyZDIxcXJ0aWk5bWd2dno4Z21xbzlsM3kwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif",
+        "card2GifUrl": "https://m.media-amazon.com/images/S/pv-target-images/cf73366bc86bf9cfc016e777fbdc8b4d73ce4ad068cb63d97bae26c6e7577cf8.jpg",
+        "leftGifUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/05/the-matrix-code-keanu-reeves.jpeg?w=1200&h=675&fit=crop",
         "animationType": "none",
         "animationPreviewKey": 14,
         "textColor": "#f0f0f0",
@@ -20571,7 +20571,7 @@
   "templateId": "native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791380381598_itcab",
-    "updatedAt": "2026-10-07T13:39:44.838Z"
+    "revision": "rev_1791380504219_e4sdg",
+    "updatedAt": "2026-10-07T13:41:46.660Z"
   }
 }
