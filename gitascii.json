@@ -20571,8 +20571,8 @@
         "activeWindowLabel": "Mert1026",
         "inactiveWindowLabel": "Visual Studio",
         "customTime": "work : time",
-        "animationType": "slide-up",
-        "animationPreviewKey": 2,
+        "animationType": "none",
+        "animationPreviewKey": 3,
         "animationDuration": 2000
       },
       "locked": false,
@@ -20594,7 +20594,7 @@
   "templateId": "native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791377462454_amcgc",
-    "updatedAt": "2026-10-07T12:51:06.273Z"
+    "revision": "rev_1791378834096_kmdzh",
+    "updatedAt": "2026-10-07T13:13:57.644Z"
   }
 }
