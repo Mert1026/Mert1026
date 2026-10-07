@@ -20463,14 +20463,16 @@
         "titleLine2": "and learning.",
         "terminalText": "> always open to collaborations",
         "card1Text": "honorable mention",
-        "card1GifUrl": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHl6bW5iOGhybmU0dHM4MXAxaWtrdHlsaGkwNHN3eWFzYWJrc2V5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7JyscJbYmMq1C2wt6S/giphy.gif",
+        "card1GifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN40xHtKcjVw13xiDr4hvF8C-QX0ykIb6J4twS4pFcaZgBO_hXif5Zdtc&s=10",
         "card1Icon": "trophy",
         "card2Text": "must watch",
         "card2Icon": "flask-conical",
         "card2GifUrl": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2dyZGp3Nmh0aXhkMzc3MmVlaTFjeGlrZ2Z4YzRubnp1YWg0ZjUwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2s0ouek7HJmWQ/giphy.gif",
         "leftGifUrl": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZnNGhhM2FuMXpwMXZyZDIxcXJ0aWk5bWd2dno4Z21xbzlsM3kwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif",
-        "animationType": "slide-up",
-        "animationPreviewKey": 13
+        "animationType": "none",
+        "animationPreviewKey": 14,
+        "textColor": "#f0f0f0",
+        "backgroundColor": "#c5ff4a"
       },
       "locked": false,
       "visible": true,
@@ -20569,7 +20571,7 @@
   "templateId": "native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791379021024_vm6pp",
-    "updatedAt": "2026-10-07T13:17:03.401Z"
+    "revision": "rev_1791380381598_itcab",
+    "updatedAt": "2026-10-07T13:39:44.838Z"
   }
 }
