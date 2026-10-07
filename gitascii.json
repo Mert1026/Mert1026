@@ -133,8 +133,8 @@
         "card1Icon": "trophy",
         "card2Text": "must watch",
         "card2Icon": "flask-conical",
-        "card2GifUrl": "https://m.media-amazon.com/images/S/pv-target-images/cf73366bc86bf9cfc016e777fbdc8b4d73ce4ad068cb63d97bae26c6e7577cf8.jpg",
-        "leftGifUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/05/the-matrix-code-keanu-reeves.jpeg?w=1200&h=675&fit=crop",
+        "card2GifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIjmECayjw0PT5nGHfJXKYXUl-PNCX0ktTCHyZbmZAvcOaOquzoGtthLE&s=10",
+        "leftGifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQenBsnd64e9OJbGxPKzSqJHH8Z3L4WAsu1FWWP9-BDU1Le_PpqitKBcQ&s=10",
         "animationType": "none",
         "animationPreviewKey": 14,
         "textColor": "#f0f0f0",
@@ -237,7 +237,7 @@
   "templateId": "native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791380620281_f7jag",
-    "updatedAt": "2026-10-07T13:43:42.544Z"
+    "revision": "rev_1791381023570_mz376",
+    "updatedAt": "2026-10-07T13:50:27.269Z"
   }
 }
