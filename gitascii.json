@@ -20360,7 +20360,7 @@
       "name": "Terminal-info Widget",
       "position": {
         "x": 296,
-        "y": 138
+        "y": 144
       },
       "size": {
         "width": 472,
@@ -20594,7 +20594,7 @@
   "templateId": "native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791376814770_6jyhd",
-    "updatedAt": "2026-10-07T12:40:17.476Z"
+    "revision": "rev_1791377462454_amcgc",
+    "updatedAt": "2026-10-07T12:51:06.273Z"
   }
 }
