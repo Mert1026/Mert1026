@@ -20553,31 +20553,6 @@
       "locked": false,
       "visible": true,
       "zIndex": 8
-    },
-    {
-      "instanceId": "widget_1791376447031",
-      "widgetId": "winxp-taskbar",
-      "name": "Winxp-taskbar Widget",
-      "position": {
-        "x": 0,
-        "y": 1072
-      },
-      "size": {
-        "width": 800,
-        "height": 40
-      },
-      "config": {
-        "startButtonLabel": "Start",
-        "activeWindowLabel": "Mert1026",
-        "inactiveWindowLabel": "Visual Studio",
-        "customTime": "work : time",
-        "animationType": "none",
-        "animationPreviewKey": 3,
-        "animationDuration": 2000
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 9
     }
   ],
   "globalStyles": {
@@ -20594,7 +20569,7 @@
   "templateId": "native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791378834096_kmdzh",
-    "updatedAt": "2026-10-07T13:13:57.644Z"
+    "revision": "rev_1791378961769_340ze",
+    "updatedAt": "2026-10-07T13:16:04.621Z"
   }
 }
