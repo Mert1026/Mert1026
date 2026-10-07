@@ -134,7 +134,7 @@
         "card2Text": "must watch",
         "card2Icon": "flask-conical",
         "card2GifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIjmECayjw0PT5nGHfJXKYXUl-PNCX0ktTCHyZbmZAvcOaOquzoGtthLE&s=10",
-        "leftGifUrl": "",
+        "leftGifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7GaAg0jq8WV3_OhDKpV2f3q1DDfZ5p8EoHbLxJU4NeI7pKfMhJNqpEJ7e&s=10",
         "animationType": "none",
         "animationPreviewKey": 14,
         "textColor": "#f0f0f0",
@@ -237,7 +237,7 @@
   "templateId": "native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791381672786_fyqmk",
-    "updatedAt": "2026-10-07T14:01:15.205Z"
+    "revision": "rev_1791381771879_9dxav",
+    "updatedAt": "2026-10-07T14:02:54.506Z"
   }
 }
