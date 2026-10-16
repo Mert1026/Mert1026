@@ -245,7 +245,7 @@
     </g>
   
 
-    <g transform="translate(24, 588)" id="widget-widget_1791373817661">
+    <g transform="translate(24, 581)" id="widget-widget_1791373817661">
 
       
       
@@ -320,13 +320,13 @@
           <text x="0" y="98" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="0.2">Exploring</text>
 
           <!-- Headline Line 2 -->
-          <text x="0" y="126" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="0.2">and learning.</text>
+          <text x="0" y="126" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="0.2">and learninggg</text>
 
           <!-- Terminal / Prompt Line -->
           <g transform="translate(0, 164)">
-            <text x="0" y="0" fill="rgba(255,255,255,0.45)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="13" font-weight="400">&gt; always open to collaborations</text>
+            <text x="0" y="0" fill="rgba(255,255,255,0.45)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="13" font-weight="400">&gt; type smth</text>
             <!-- Cursor positioned after terminal text -->
-            <text id="ab-cursor-widget_1791373817661" x="245.79999999999998" y="0" fill="rgba(255,255,255,0.6)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="13" font-weight="400">_</text>
+            <text id="ab-cursor-widget_1791373817661" x="89.8" y="0" fill="rgba(255,255,255,0.6)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="13" font-weight="400">_</text>
           </g>
         </g>
       </g>

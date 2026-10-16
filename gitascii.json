@@ -117,7 +117,7 @@
       "name": "Codeweb-showcase-cards Widget",
       "position": {
         "x": 24,
-        "y": 588
+        "y": 581
       },
       "size": {
         "width": 752,
@@ -126,8 +126,8 @@
       "config": {
         "aboutTag": "codinggg..",
         "titleLine1": "Exploring",
-        "titleLine2": "and learning.",
-        "terminalText": "> always open to collaborations",
+        "titleLine2": "and learninggg",
+        "terminalText": "> type smth",
         "card1Text": "honorable mention",
         "card1GifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN40xHtKcjVw13xiDr4hvF8C-QX0ykIb6J4twS4pFcaZgBO_hXif5Zdtc&s=10",
         "card1Icon": "trophy",
@@ -242,7 +242,7 @@
   "templateId": "native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1792133132931_ec4tx",
-    "updatedAt": "2026-10-16T06:45:35.226Z"
+    "revision": "rev_1792133295714_gj3wd",
+    "updatedAt": "2026-10-16T06:48:18.968Z"
   }
 }
