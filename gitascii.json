@@ -174,8 +174,8 @@
       "widgetId": "premium-ascii-coding-velocity",
       "name": "Premium-ascii-coding-velocity Widget",
       "position": {
-        "x": 368,
-        "y": 801
+        "x": 0,
+        "y": 826
       },
       "size": {
         "width": 400,
@@ -195,32 +195,37 @@
       "zIndex": 7
     },
     {
-      "instanceId": "widget_1791376220594",
-      "widgetId": "premium-ascii-dna",
-      "name": "Premium-ascii-dna Widget",
+      "instanceId": "widget_1792133019424",
+      "widgetId": "ascii-text",
+      "name": "Ascii-text Widget",
       "position": {
-        "x": 8,
-        "y": 681
+        "x": 352,
+        "y": 870
       },
       "size": {
-        "width": 400,
-        "height": 400
+        "width": 440,
+        "height": 72
       },
       "config": {
-        "lockAspectRatio": true,
-        "transparentBackground": true,
-        "backgroundColor": "transparent",
-        "accentColor": "#3fb950",
-        "secondaryColor": "#39c5cf",
-        "borderColor": "#30363d",
-        "hideTraits": [
-          "open source"
+        "customText": "M3r75k1",
+        "asciiFont": "block",
+        "charSpacing": 1,
+        "fontSize": 12,
+        "charset": "default",
+        "customCharset": "",
+        "asciiLines": [
+          "██    ██ ███████▄ ███████▄ ████████ ████████ ██    ██   ▄██▄  ",
+          "████████      ▀██ ██    ██     ▄█▀  ██       ██  ▄█▀     ██   ",
+          "██ ▀▀ ██  ▀█████▄ ███████▀   ▄█▀    ███████▄ █████▄      ██   ",
+          "██    ██       ██ ██  ▀██▄  ▄█▀           ██ ██  ▀██▄    ██   ",
+          "██    ██ ███████▀ ██    ██ ▄█▀      ███████▀ ██    ██ ████████"
         ],
-        "showArchetype": false
+        "animationType": "fade-in",
+        "animationPreviewKey": 1
       },
       "locked": false,
       "visible": true,
-      "zIndex": 8
+      "zIndex": 7
     }
   ],
   "globalStyles": {
@@ -230,14 +235,14 @@
     "borderColor": "#252525",
     "fontFamily": "'JetBrains Mono', monospace",
     "borderRadius": 0,
-    "padding": 24,
+    "padding": 0,
     "themeMode": "dark",
     "templateStyle": "native"
   },
   "templateId": "native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791381847045_bg741",
-    "updatedAt": "2026-10-07T14:04:10.484Z"
+    "revision": "rev_1792133058581_rpawh",
+    "updatedAt": "2026-10-16T06:44:21.232Z"
   }
 }
