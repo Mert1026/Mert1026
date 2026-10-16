@@ -199,11 +199,11 @@
       "widgetId": "ascii-text",
       "name": "Ascii-text Widget",
       "position": {
-        "x": 352,
+        "x": 368,
         "y": 870
       },
       "size": {
-        "width": 440,
+        "width": 408,
         "height": 72
       },
       "config": {
@@ -223,7 +223,7 @@
         "animationType": "typewriter",
         "animationPreviewKey": 9,
         "animationDuration": 7000,
-        "animationDelay": 50
+        "animationDelay": 10
       },
       "locked": false,
       "visible": true,
@@ -244,7 +244,7 @@
   "templateId": "native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1792133613219_vp8hq",
-    "updatedAt": "2026-10-16T06:53:35.920Z"
+    "revision": "rev_1792133785249_4g3dq",
+    "updatedAt": "2026-10-16T06:56:27.217Z"
   }
 }
