@@ -116,12 +116,12 @@
       "widgetId": "codeweb-showcase-cards",
       "name": "Codeweb-showcase-cards Widget",
       "position": {
-        "x": 0,
-        "y": 581
+        "x": 24,
+        "y": 588
       },
       "size": {
-        "width": 800,
-        "height": 220
+        "width": 752,
+        "height": 213
       },
       "config": {
         "aboutTag": "codinggg..",
@@ -242,7 +242,7 @@
   "templateId": "native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1792133058581_rpawh",
-    "updatedAt": "2026-10-16T06:44:21.232Z"
+    "revision": "rev_1792133132931_ec4tx",
+    "updatedAt": "2026-10-16T06:45:35.226Z"
   }
 }
