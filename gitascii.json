@@ -112,39 +112,6 @@
       "instanceId": "widget_1791373386570_5"
     },
     {
-      "instanceId": "widget_1791373817661",
-      "widgetId": "codeweb-showcase-cards",
-      "name": "Codeweb-showcase-cards Widget",
-      "position": {
-        "x": 24,
-        "y": 581
-      },
-      "size": {
-        "width": 752,
-        "height": 213
-      },
-      "config": {
-        "aboutTag": "codinggg..",
-        "titleLine1": "Exploring",
-        "titleLine2": "and learninggg",
-        "terminalText": "> type smth",
-        "card1Text": "honorable mention",
-        "card1GifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN40xHtKcjVw13xiDr4hvF8C-QX0ykIb6J4twS4pFcaZgBO_hXif5Zdtc&s=10",
-        "card1Icon": "trophy",
-        "card2Text": "must watch",
-        "card2Icon": "flask-conical",
-        "card2GifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIjmECayjw0PT5nGHfJXKYXUl-PNCX0ktTCHyZbmZAvcOaOquzoGtthLE&s=10",
-        "leftGifUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl5Lwp3wXLOFiEAvOKwmDdtN3CYzqYavByde2oDK9lxTbAiX6JQUBYCfwD&s=10",
-        "animationType": "none",
-        "animationPreviewKey": 14,
-        "textColor": "#f0f0f0",
-        "backgroundColor": "#c5ff4a"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 6
-    },
-    {
       "instanceId": "widget_1791374891882",
       "widgetId": "premium-ascii-insights",
       "name": "Premium-ascii-insights Widget",
@@ -175,7 +142,7 @@
       "name": "Premium-ascii-coding-velocity Widget",
       "position": {
         "x": 0,
-        "y": 826
+        "y": 564
       },
       "size": {
         "width": 400,
@@ -199,8 +166,8 @@
       "widgetId": "ascii-text",
       "name": "Ascii-text Widget",
       "position": {
-        "x": 368,
-        "y": 870
+        "x": 384,
+        "y": 608
       },
       "size": {
         "width": 408,
@@ -244,7 +211,7 @@
   "templateId": "native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1792133785249_4g3dq",
-    "updatedAt": "2026-10-16T06:56:27.217Z"
+    "revision": "rev_1793990855989_r3ira",
+    "updatedAt": "2026-11-06T18:47:38.278Z"
   }
 }
